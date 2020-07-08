@@ -9,5 +9,17 @@
     
 }
 .second-part{
-    margin-top: 50px;
+    margin-top: 80px;
+
+}
+.card-class{
+    margin-left: 50px;
+}
+.bg-color-second{
+    background-color: #F0FFF0;
+    border: none;
+}
+#second-second{
+    border: none;
+    box-shadow: 2px 2px 30px gainsboro;
 }
