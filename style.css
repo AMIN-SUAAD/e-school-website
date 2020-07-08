@@ -23,3 +23,18 @@
     border: none;
     box-shadow: 2px 2px 30px gainsboro;
 }
+.third-deck{
+    
+    border-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 30px gainsboro;
+    
+
+}
+#third-card{
+    border: none;
+}
+.seat-number{
+    padding-top: 20px;
+    color: gray;
+}
