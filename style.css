@@ -38,3 +38,19 @@
     padding-top: 20px;
     color: gray;
 }
+.last-part{
+    margin-top: 100px;
+    background-color: #282531;
+    border-radius: 15px;
+    
+}
+.text-white{
+    color: white;
+}
+.last-texts{
+    padding-top: 20px;
+}
+.last-first{
+    padding-left: 30px;
+    padding-right: 30px;
+}
